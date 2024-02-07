@@ -1,2 +1,2 @@
-# hamimfy
-Live Demo: https://hamimfy.vercel.app/
+## hamimfy
+### [Live Demo 🚀](https://hamimfy.vercel.app/)
